@@ -1,0 +1,7 @@
+
+#+BEGIN_SRC resclient
+GET http://localhost:5000
+Accept: application/json
+#+END_SRC
+
+#+RESULTS:
